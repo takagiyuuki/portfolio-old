@@ -10,9 +10,7 @@ If you have any recommended services, please share them with me!
 
 ## Work career
 
-### Infra Development(2 - 3 years)
-
-#### Network Design/Build/Replace/Operation
+### Infra Development - Network
 
 I've design,build and replace Network for Enterprise by AWS, Azure and on-premises.
 
@@ -23,7 +21,7 @@ Specifically,
 - Azure
 - VPN
 
-#### Server Design/Building/Replace/Operation
+### Infra Development - Server
 
 I've design,build and replace Servers for Enterprise by AWS, Azure and on-premises.
 
@@ -65,13 +63,12 @@ Details will be on the this page in the future.
 
 - AWS Solution Architect Associate
 
-### Frontend Skills
+### Frontend
 
-### Backend Skills
+### Backend
 
-### Infra Skills
+### Infra - Server
 
-In **Server Skills**,
 I used to develop some services on **Linux**.
 Often I've developed these distributes **RHEL**(Red hat Linux for Enterprise)8-9, **CentOS** 7-8, **Alma Linux** 8, **Amazon Linux** 8...etc
 
@@ -80,6 +77,8 @@ Developed/Built<br>
 **Proxy**(squid): aaaaa<br>
 **Web**(apache,nginx): aaaaa<br>
 **Monitoring service**(zabbix): aaaaa<br>
+
+### Infra - Network
 
 <!-- 
 ### languages
