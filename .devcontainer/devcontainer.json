@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-portfolio",
+  "context": "..",
+  "dockerFile": "Dockerfile",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        //"terminal.integrated.defaultProfile.linux": "/bin/bash"
+      },
+      "appPort": [
+        9000
+      ],
+      "remoteUser": "root",
+      "extensions": [
+        "ms-vscode.vscode-typescript-next"
+      ]
+    }
+  }
+}
