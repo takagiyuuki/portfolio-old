@@ -39,9 +39,17 @@ const config: GatsbyConfig = {
             url: `https://twitter.com/lekoarts_de`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/yuki-t-b31717185/`,
           },
+          {
+            name: `Blog`,
+            url: `https://twitter.com/lekoarts_de`,
+          },
+          {
+            name: `Artwork`,
+            url: `https://twitter.com/lekoarts_de`,
+          }
         ],
       },
     },
