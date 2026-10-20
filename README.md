@@ -1,4 +1,6 @@
-> ⚠️ **Archived** — Superseded by [takagiyuuki/portfolio]([URL](https://github.com/takagiyuuki/portfolio)). No longer maintained.
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+
 
 
 ----
